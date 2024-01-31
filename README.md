@@ -28,3 +28,5 @@ Contributions are welcome! Please read the contributing guidelines before making
 This project is licensed under the MIT License.
 
 ##Website
+![Screenshot 2024-01-31 155354](https://github.com/huzaif00/NewsApplication/assets/91981135/2878008a-f628-4e9e-bde5-9bf617cb157c)
+![Screenshot 2024-01-31 155421](https://github.com/huzaif00/NewsApplication/assets/91981135/8a0d3282-d934-4a5f-a9a3-a43abb58ce17)
